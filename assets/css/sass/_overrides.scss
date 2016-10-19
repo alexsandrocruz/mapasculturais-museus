@@ -73,3 +73,46 @@ ul.abas{
         display: block !important;
     }
 }
+
+
+body.controller-seal.action-printsealrelation.touch-device #main-section {
+    margin-top: 0px;
+}
+
+#culturaviva-model {
+    width: 1250px;
+    background-color: #fcc209;
+    overflow: auto;
+    p.certificate-content {
+        margin: 160px 126px 0px 190px;
+        padding: 40px 0;
+        font-size: 25px;
+        line-height: 2.2rem;
+        span.entity-name{
+            font-size: 22px;
+            font-style: italic;
+        }
+    }
+    .footer {
+        margin-top: 50px;
+        .footer-signatures{
+            width: auto;
+            min-width: 580px;
+            text-align: center;
+            div{
+                display: inline;
+            }
+        }
+        width: 100%;
+        text-align: right;
+        div {
+            position: relative;
+            margin: 10px;
+            vertical-align: bottom;
+            display: inline-block;
+        }
+        div img {
+            height: 80px;
+        }
+    }
+}
