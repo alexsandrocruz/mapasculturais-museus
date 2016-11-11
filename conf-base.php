@@ -10,9 +10,6 @@ return [
     'notifications.entities.update' => 1825,
     'notifications.user.access'     => 182,
     'plugins' => [
-        'OriginSite' => [
-            'namespace' => 'OriginSite'
-        ],
         'SealModelTab' => [
             'namespace' => 'SealModelTab'
         ],
